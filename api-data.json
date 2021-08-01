@@ -5,7 +5,7 @@
     "Description": "one of six services is offline",
     "tweet": {
       "date": "26th of September 2020",
-      "unix": "1601144501",
+      "unix": "1601146067",
       "message": "AlphaRatio is currently dealing with a failing SSD."
     },
     "Services": {
@@ -28,7 +28,7 @@
     "Description": "two of six services are offline",
     "tweet": {
       "date": "3rd of April 2018",
-      "unix": "1522779701",
+      "unix": "1522781267",
       "message": "Service has been restored."
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "all three services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552933301",
+      "unix": "1552934868",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -71,7 +71,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "17th of June 2018",
-      "unix": "1529259701",
+      "unix": "1529261268",
       "message": "The website as of many hours ago is online and working correctly."
     },
     "Services": {
@@ -94,7 +94,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553710901",
+      "unix": "1553712468",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
@@ -117,7 +117,7 @@
     "Description": "one of six services is offline",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580412101",
+      "unix": "1580413668",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
@@ -132,27 +132,6 @@
       "IRCServer": "1",
       "IRCTorrentAnnouncer": "0",
       "IRCUserIdentifier": "1"
-    }
-  },
-  "mtv": {
-    "URL": "https://mtv.trackerstatus.info",
-    "Status": "offline",
-    "Description": "all services are offline",
-    "tweet": {
-      "date": "21st of October 2020",
-      "unix": "1603304501",
-      "message": "An update from the MTV staff is available <a href=\"https://www.reddit.com/r/trackers/comments/j2cpze/a_message_from_the_staff_at_mtv/\" target=\"_blank\">on reddit</a>"
-    },
-    "Services": {
-      "online": 0,
-      "unstable": 0,
-      "offline": 4
-    },
-    "Details": {
-      "Website": "0",
-      "TrackerHTTP": "0",
-      "TrackerHTTPS": "0",
-      "IRCServer": "0"
     }
   }
 }
