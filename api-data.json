@@ -1,16 +1,16 @@
 {
   "ar": {
     "URL": "https://ar.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is unstable",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "26th of September 2020",
-      "unix": "1601149229",
+      "unix": "1601151394",
       "message": "AlphaRatio is currently dealing with a failing SSD."
     },
     "Services": {
-      "online": 5,
-      "unstable": 1,
+      "online": 6,
+      "unstable": 0,
       "offline": 0
     },
     "Details": {
@@ -18,22 +18,22 @@
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "2",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
   "btn": {
     "URL": "https://btn.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is unstable",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "3rd of April 2018",
-      "unix": "1522784429",
+      "unix": "1522786594",
       "message": "Service has been restored."
     },
     "Services": {
-      "online": 5,
-      "unstable": 1,
+      "online": 6,
+      "unstable": 0,
       "offline": 0
     },
     "Details": {
@@ -41,7 +41,7 @@
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "2",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
@@ -51,7 +51,7 @@
     "Description": "all three services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552938029",
+      "unix": "1552940194",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -67,24 +67,24 @@
   },
   "ptp": {
     "URL": "https://ptp.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one service unstable and one of six services offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "17th of June 2018",
-      "unix": "1529264429",
+      "unix": "1529266594",
       "message": "The website as of many hours ago is online and working correctly."
     },
     "Services": {
-      "online": 4,
-      "unstable": 1,
-      "offline": 1
+      "online": 6,
+      "unstable": 0,
+      "offline": 0
     },
     "Details": {
-      "Website": "2",
+      "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
@@ -94,7 +94,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553715629",
+      "unix": "1553717794",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
@@ -117,7 +117,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580416829",
+      "unix": "1580418994",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
