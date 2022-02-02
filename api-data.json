@@ -1,0 +1,107 @@
+{
+  "ar": {
+    "URL": "https://ar.trackerstatus.info",
+    "Status": "unstable",
+    "Description": "one of six services is unstable",
+    "Services": {
+      "online": 5,
+      "unstable": 1,
+      "offline": 0
+    },
+    "Details": {
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
+      "IRCServer": "1",
+      "IRCTorrentAnnouncer": "1",
+      "IRCUserIdentifier": "2"
+    }
+  },
+  "btn": {
+    "URL": "https://btn.trackerstatus.info",
+    "Status": "online",
+    "Description": "all six services online",
+    "Services": {
+      "online": 6,
+      "unstable": 0,
+      "offline": 0
+    },
+    "Details": {
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
+      "IRCServer": "1",
+      "IRCTorrentAnnouncer": "1",
+      "IRCUserIdentifier": "1"
+    }
+  },
+  "ggn": {
+    "URL": "https://ggn.trackerstatus.info",
+    "Status": "online",
+    "Description": "all three services online",
+    "Services": {
+      "online": 3,
+      "unstable": 0,
+      "offline": 0
+    },
+    "Details": {
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1"
+    }
+  },
+  "ptp": {
+    "URL": "https://ptp.trackerstatus.info",
+    "Status": "online",
+    "Description": "all six services online",
+    "Services": {
+      "online": 6,
+      "unstable": 0,
+      "offline": 0
+    },
+    "Details": {
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
+      "IRCServer": "1",
+      "IRCTorrentAnnouncer": "1",
+      "IRCUserIdentifier": "1"
+    }
+  },
+  "red": {
+    "URL": "https://red.trackerstatus.info",
+    "Status": "online",
+    "Description": "all six services online",
+    "Services": {
+      "online": 6,
+      "unstable": 0,
+      "offline": 0
+    },
+    "Details": {
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
+      "IRCServer": "1",
+      "IRCTorrentAnnouncer": "1",
+      "IRCUserIdentifier": "1"
+    }
+  },
+  "ops": {
+    "URL": "https://ops.trackerstatus.info",
+    "Status": "online",
+    "Description": "all six services online",
+    "Services": {
+      "online": 6,
+      "unstable": 0,
+      "offline": 0
+    },
+    "Details": {
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
+      "IRCServer": "1",
+      "IRCTorrentAnnouncer": "1",
+      "IRCUserIdentifier": "1"
+    }
+  }
+}
