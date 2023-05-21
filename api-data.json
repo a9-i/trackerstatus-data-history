@@ -5,7 +5,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "26th of September 2020",
-      "unix": "1601104395",
+      "unix": "1601105820",
       "message": "AlphaRatio is currently dealing with a failing SSD."
     },
     "Services": {
@@ -28,7 +28,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "3rd of April 2018",
-      "unix": "1522739595",
+      "unix": "1522741020",
       "message": "Service has been restored."
     },
     "Services": {
@@ -48,20 +48,20 @@
   "ggn": {
     "URL": "https://ggn.trackerstatus.info",
     "Status": "unstable",
-    "Description": "one service unstable and one of three services offline",
+    "Description": "two of three services are offline",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552893195",
+      "unix": "1552894620",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
       "online": 1,
-      "unstable": 1,
-      "offline": 1
+      "unstable": 0,
+      "offline": 2
     },
     "Details": {
       "Website": "1",
-      "TrackerHTTP": "2",
+      "TrackerHTTP": "0",
       "TrackerHTTPS": "0"
     }
   },
@@ -71,7 +71,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "17th of June 2018",
-      "unix": "1529219595",
+      "unix": "1529221020",
       "message": "The website as of many hours ago is online and working correctly."
     },
     "Services": {
@@ -94,7 +94,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553670795",
+      "unix": "1553672220",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
@@ -117,7 +117,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580371995",
+      "unix": "1580373420",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
