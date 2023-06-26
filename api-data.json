@@ -5,7 +5,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "26th of September 2020",
-      "unix": "1601123753",
+      "unix": "1601126783",
       "message": "AlphaRatio is currently dealing with a failing SSD."
     },
     "Services": {
@@ -28,7 +28,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "3rd of April 2018",
-      "unix": "1522758953",
+      "unix": "1522761983",
       "message": "Service has been restored."
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "all three services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552912553",
+      "unix": "1552915583",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -71,7 +71,7 @@
     "Description": "one of seven services is unstable",
     "tweet": {
       "date": "17th of June 2018",
-      "unix": "1529238953",
+      "unix": "1529241983",
       "message": "The website as of many hours ago is online and working correctly."
     },
     "Services": {
@@ -95,7 +95,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553690153",
+      "unix": "1553693183",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
@@ -114,25 +114,25 @@
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
-    "Status": "online",
-    "Description": "all six services online",
+    "Status": "unstable",
+    "Description": "three of six services are offline",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580391353",
+      "unix": "1580394383",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
-      "online": 6,
+      "online": 3,
       "unstable": 0,
-      "offline": 0
+      "offline": 3
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
-      "IRCServer": "1",
-      "IRCTorrentAnnouncer": "1",
-      "IRCUserIdentifier": "1"
+      "IRCServer": "0",
+      "IRCTorrentAnnouncer": "0",
+      "IRCUserIdentifier": "0"
     }
   }
 }
