@@ -1,70 +1,70 @@
 {
   "ar": {
     "URL": "https://ar.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "26th of September 2020",
-      "unix": "1601174213",
+      "unix": "1601176502",
       "message": "AlphaRatio is currently dealing with a failing SSD."
     },
     "Services": {
-      "online": 5,
+      "online": 6,
       "unstable": 0,
-      "offline": 1
+      "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
   "btn": {
     "URL": "https://btn.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "3rd of April 2018",
-      "unix": "1522809413",
+      "unix": "1522811702",
       "message": "Service has been restored."
     },
     "Services": {
-      "online": 5,
+      "online": 6,
       "unstable": 0,
-      "offline": 1
+      "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
   "ggn": {
     "URL": "https://ggn.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552963013",
+      "unix": "1552965302",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
-      "online": 5,
+      "online": 6,
       "unstable": 0,
-      "offline": 1
+      "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
@@ -73,7 +73,7 @@
     "Status": "unstable",
     "Description": "four of seven services are offline",
     "tweet": {
-      "date": "21 hours",
+      "date": "22 hours",
       "unix": "1693371025",
       "message": "Excellent news! Our donation goal has been met with ease and we are working on the rebuild process. It will still take several more days at the earliest, but we are working diligently in the time we have. Thank you for your ongoing patience!A very sp... msg continues on https://ptp.trackerstatus.info"
     },
@@ -94,40 +94,40 @@
   },
   "red": {
     "URL": "https://red.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553740613",
+      "unix": "1553742902",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
-      "online": 5,
+      "online": 6,
       "unstable": 0,
-      "offline": 1
+      "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
     "Status": "unstable",
-    "Description": "one of six services is offline",
+    "Description": "two of six services are offline",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580441813",
+      "unix": "1580444102",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
-      "online": 5,
+      "online": 4,
       "unstable": 0,
-      "offline": 1
+      "offline": 2
     },
     "Details": {
       "Website": "1",
@@ -135,7 +135,7 @@
       "TrackerHTTPS": "1",
       "IRCServer": "1",
       "IRCTorrentAnnouncer": "0",
-      "IRCUserIdentifier": "1"
+      "IRCUserIdentifier": "0"
     }
   }
 }
