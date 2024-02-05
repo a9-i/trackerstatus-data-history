@@ -4,7 +4,7 @@
     "Status": "unstable",
     "Description": "one service unstable and four of six services offline",
     "tweet": {
-      "date": "5 hours ago",
+      "date": "7 hours ago",
       "unix": 1707068383,
       "message": "Site may be down for a while, please see <a href=\"https://www.reddit.com/r/trackers/comments/1aiqtgd/news_from_ar/\">this</a> reddit thread for an update which was originally posted by AR staff on their IRC network."
     },
@@ -28,7 +28,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "30th of August 2023",
-      "unix": "1693435011",
+      "unix": "1693440577",
       "message": "Everything with BTN is A-OK! - Today I refreshed the theme of the status page :)"
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "one of six services is offline",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552948611",
+      "unix": "1552954177",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -98,7 +98,7 @@
     "Description": "two of six services are offline",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553726211",
+      "unix": "1553731777",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
@@ -117,24 +117,24 @@
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "four of six services are unstable",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580427411",
+      "unix": "1580432977",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
-      "online": 2,
-      "unstable": 4,
+      "online": 6,
+      "unstable": 0,
       "offline": 0
     },
     "Details": {
-      "Website": "2",
-      "TrackerHTTP": "2",
-      "TrackerHTTPS": "2",
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "2",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   }
