@@ -5,7 +5,7 @@
     "Description": "one of six services is unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707251864",
+      "unix": "1707254027",
       "message": "The site is back up!"
     },
     "Services": {
@@ -28,7 +28,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "30th of August 2023",
-      "unix": "1693424264",
+      "unix": "1693426427",
       "message": "Everything with BTN is A-OK! - Today I refreshed the theme of the status page :)"
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552937864",
+      "unix": "1552940027",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -98,7 +98,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "27th of March 2019",
-      "unix": "1553715464",
+      "unix": "1553717627",
       "message": "As of 6 hours ago main site and tracker services have been restored."
     },
     "Services": {
@@ -117,24 +117,24 @@
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of six services is offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "30th of January 2020",
-      "unix": "1580416664",
+      "unix": "1580418827",
       "message": "Maintenance has completed for Orpheus."
     },
     "Services": {
-      "online": 5,
+      "online": 6,
       "unstable": 0,
-      "offline": 1
+      "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   }
