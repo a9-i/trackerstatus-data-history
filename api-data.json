@@ -5,7 +5,7 @@
     "Description": "one of six services is unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707232835",
+      "unix": "1707234210",
       "message": "The site is back up!"
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552918835",
+      "unix": "1552920210",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -98,7 +98,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732634435",
+      "unix": "1732635810",
       "message": "There are no status messages."
     },
     "Services": {
@@ -141,46 +141,46 @@
   "nbl": {
     "URL": "https://nbl.trackerstatus.info",
     "Status": "unstable",
-    "Description": "three of five services are offline",
+    "Description": "one of five services is offline",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717251635",
+      "unix": "1717253010",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
-      "online": 2,
+      "online": 4,
       "unstable": 0,
-      "offline": 3
+      "offline": 1
     },
     "Details": {
-      "Website": "0",
+      "Website": "1",
       "TrackerHTTP": null,
       "TrackerHTTPS": "0",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
   "ant": {
     "URL": "https://ant.trackerstatus.info",
     "Status": "unstable",
-    "Description": "three of five services are offline",
+    "Description": "one service unstable and one of five services offline",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717251635",
+      "unix": "1717253010",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
-      "online": 2,
-      "unstable": 0,
-      "offline": 3
+      "online": 3,
+      "unstable": 1,
+      "offline": 1
     },
     "Details": {
-      "Website": "0",
+      "Website": "1",
       "TrackerHTTP": null,
       "TrackerHTTPS": "0",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "2",
       "IRCUserIdentifier": "1"
     }
   }
