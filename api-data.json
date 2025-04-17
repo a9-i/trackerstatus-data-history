@@ -2,23 +2,23 @@
   "ar": {
     "URL": "https://ar.trackerstatus.info",
     "Status": "unstable",
-    "Description": "one of six services is unstable",
+    "Description": "one service unstable and four of six services offline",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707266440",
+      "unix": "1707274001",
       "message": "The site is back up!"
     },
     "Services": {
-      "online": 5,
+      "online": 1,
       "unstable": 1,
-      "offline": 0
+      "offline": 4
     },
     "Details": {
-      "Website": "1",
-      "TrackerHTTP": "1",
-      "TrackerHTTPS": "1",
+      "Website": "0",
+      "TrackerHTTP": "0",
+      "TrackerHTTPS": "0",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "1",
+      "IRCTorrentAnnouncer": "0",
       "IRCUserIdentifier": "2"
     }
   },
@@ -51,7 +51,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552952440",
+      "unix": "1552960001",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -94,24 +94,24 @@
   },
   "red": {
     "URL": "https://red.trackerstatus.info",
-    "Status": "online",
-    "Description": "all six services online",
+    "Status": "unstable",
+    "Description": "one of six services is offline",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732668040",
+      "unix": "1732675601",
       "message": "There are no status messages."
     },
     "Services": {
-      "online": 6,
+      "online": 5,
       "unstable": 0,
-      "offline": 0
+      "offline": 1
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "1",
+      "IRCTorrentAnnouncer": "0",
       "IRCUserIdentifier": "1"
     }
   },
@@ -144,7 +144,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717285240",
+      "unix": "1717292801",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
@@ -167,7 +167,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717285240",
+      "unix": "1717292801",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
