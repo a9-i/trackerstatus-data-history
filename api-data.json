@@ -5,7 +5,7 @@
     "Description": "one of six services is unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707263070",
+      "unix": "1707265295",
       "message": "The site is back up!"
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "two of six services are offline",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552949070",
+      "unix": "1552951295",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -95,23 +95,23 @@
   "red": {
     "URL": "https://red.trackerstatus.info",
     "Status": "unstable",
-    "Description": "four of six services are offline",
+    "Description": "two of six services are offline",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732664670",
+      "unix": "1732666895",
       "message": "There are no status messages."
     },
     "Services": {
-      "online": 2,
+      "online": 4,
       "unstable": 0,
-      "offline": 4
+      "offline": 2
     },
     "Details": {
-      "Website": "0",
+      "Website": "1",
       "TrackerHTTP": "0",
       "TrackerHTTPS": "0",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "0",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
@@ -144,7 +144,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717281870",
+      "unix": "1717284095",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
@@ -167,7 +167,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717281870",
+      "unix": "1717284095",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
