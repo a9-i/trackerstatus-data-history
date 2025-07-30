@@ -5,7 +5,7 @@
     "Description": "one of six services is unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707287543",
+      "unix": "1707205124",
       "message": "The site is back up!"
     },
     "Services": {
@@ -51,7 +51,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552973543",
+      "unix": "1552891124",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -98,7 +98,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732689143",
+      "unix": "1732606724",
       "message": "There are no status messages."
     },
     "Services": {
@@ -117,16 +117,16 @@
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of five services is unstable",
+    "Status": "online",
+    "Description": "all five services online",
     "tweet": {
       "date": "3 weeks",
       "unix": "1751664800",
       "message": "The http plaintext tracker endpoint has been removed. Encrypted traffic only from now on!"
     },
     "Services": {
-      "online": 4,
-      "unstable": 1,
+      "online": 5,
+      "unstable": 0,
       "offline": 0
     },
     "Details": {
@@ -134,7 +134,7 @@
       "TrackerHTTP": null,
       "TrackerHTTPS": "1",
       "IRCServer": "1",
-      "IRCTorrentAnnouncer": "2",
+      "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
     }
   },
@@ -144,7 +144,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717306343",
+      "unix": "1717223924",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
@@ -167,7 +167,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717306343",
+      "unix": "1717223924",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
