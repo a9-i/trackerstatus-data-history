@@ -5,7 +5,7 @@
     "Description": "one of six services is unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707216053",
+      "unix": "1707218617",
       "message": "The site is back up!"
     },
     "Services": {
@@ -48,19 +48,19 @@
   "ggn": {
     "URL": "https://ggn.trackerstatus.info",
     "Status": "unstable",
-    "Description": "one service unstable and three of six services offline",
+    "Description": "four of six services are offline",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552902053",
+      "unix": "1552904617",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
       "online": 2,
-      "unstable": 1,
-      "offline": 3
+      "unstable": 0,
+      "offline": 4
     },
     "Details": {
-      "Website": "2",
+      "Website": "0",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "0",
@@ -98,7 +98,7 @@
     "Description": "all six services online",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732617653",
+      "unix": "1732620217",
       "message": "There are no status messages."
     },
     "Services": {
@@ -117,22 +117,22 @@
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "one of five services is unstable",
+    "Status": "online",
+    "Description": "all five services online",
     "tweet": {
       "date": "3 months",
       "unix": "1751664800",
       "message": "The http plaintext tracker endpoint has been removed. Encrypted traffic only from now on!"
     },
     "Services": {
-      "online": 4,
-      "unstable": 1,
+      "online": 5,
+      "unstable": 0,
       "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": null,
-      "TrackerHTTPS": "2",
+      "TrackerHTTPS": "1",
       "IRCServer": "1",
       "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
@@ -144,7 +144,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717234853",
+      "unix": "1717237417",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
@@ -167,7 +167,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717234853",
+      "unix": "1717237417",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
