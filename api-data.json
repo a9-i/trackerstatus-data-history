@@ -5,7 +5,7 @@
     "Description": "one of six services is unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707259059",
+      "unix": "1707261508",
       "message": "The site is back up!"
     },
     "Services": {
@@ -48,21 +48,21 @@
   "ggn": {
     "URL": "https://ggn.trackerstatus.info",
     "Status": "unstable",
-    "Description": "one service unstable and four of six services offline",
+    "Description": "one service unstable and two of six services offline",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552945059",
+      "unix": "1552947508",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
-      "online": 1,
+      "online": 3,
       "unstable": 1,
-      "offline": 4
+      "offline": 2
     },
     "Details": {
       "Website": "0",
-      "TrackerHTTP": "0",
-      "TrackerHTTPS": "0",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
       "IRCServer": "1",
       "IRCTorrentAnnouncer": "0",
       "IRCUserIdentifier": "2"
@@ -94,25 +94,25 @@
   },
   "red": {
     "URL": "https://red.trackerstatus.info",
-    "Status": "unstable",
-    "Description": "four services unstable and two of six services offline",
+    "Status": "online",
+    "Description": "all six services online",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732660659",
+      "unix": "1732663108",
       "message": "There are no status messages."
     },
     "Services": {
-      "online": 0,
-      "unstable": 4,
-      "offline": 2
+      "online": 6,
+      "unstable": 0,
+      "offline": 0
     },
     "Details": {
-      "Website": "2",
-      "TrackerHTTP": "0",
-      "TrackerHTTPS": "2",
-      "IRCServer": "2",
-      "IRCTorrentAnnouncer": "0",
-      "IRCUserIdentifier": "2"
+      "Website": "1",
+      "TrackerHTTP": "1",
+      "TrackerHTTPS": "1",
+      "IRCServer": "1",
+      "IRCTorrentAnnouncer": "1",
+      "IRCUserIdentifier": "1"
     }
   },
   "ops": {
@@ -144,7 +144,7 @@
     "Description": "one service unstable and one of five services offline",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717277859",
+      "unix": "1717280308",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
@@ -167,7 +167,7 @@
     "Description": "one of five services is offline",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717277859",
+      "unix": "1717280308",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
