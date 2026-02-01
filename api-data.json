@@ -2,19 +2,19 @@
   "ar": {
     "URL": "https://ar.trackerstatus.info",
     "Status": "unstable",
-    "Description": "one of six services is unstable",
+    "Description": "two of six services are unstable",
     "tweet": {
       "date": "6th of February 2024",
-      "unix": "1707234703",
+      "unix": "1707237292",
       "message": "The site is back up!"
     },
     "Services": {
-      "online": 5,
-      "unstable": 1,
+      "online": 4,
+      "unstable": 2,
       "offline": 0
     },
     "Details": {
-      "Website": "1",
+      "Website": "2",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
       "IRCServer": "1",
@@ -51,7 +51,7 @@
     "Description": "one of six services is offline",
     "tweet": {
       "date": "18th of March 2019",
-      "unix": "1552920703",
+      "unix": "1552923292",
       "message": "Most services have now been restored. IRC Announcer still down for the time being."
     },
     "Services": {
@@ -95,44 +95,44 @@
   "red": {
     "URL": "https://red.trackerstatus.info",
     "Status": "unstable",
-    "Description": "two services unstable and one of six services offline",
+    "Description": "one of six services is offline",
     "tweet": {
       "date": "26th of November 2024",
-      "unix": "1732636303",
+      "unix": "1732638892",
       "message": "There are no status messages."
     },
     "Services": {
-      "online": 3,
-      "unstable": 2,
+      "online": 5,
+      "unstable": 0,
       "offline": 1
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": "1",
       "TrackerHTTPS": "1",
-      "IRCServer": "2",
+      "IRCServer": "1",
       "IRCTorrentAnnouncer": "0",
-      "IRCUserIdentifier": "2"
+      "IRCUserIdentifier": "1"
     }
   },
   "ops": {
     "URL": "https://ops.trackerstatus.info",
-    "Status": "online",
-    "Description": "all five services online",
+    "Status": "unstable",
+    "Description": "one of five services is unstable",
     "tweet": {
       "date": "3 months",
       "unix": "1760822464",
       "message": "Scheduled maintenance completed."
     },
     "Services": {
-      "online": 5,
-      "unstable": 0,
+      "online": 4,
+      "unstable": 1,
       "offline": 0
     },
     "Details": {
       "Website": "1",
       "TrackerHTTP": null,
-      "TrackerHTTPS": "1",
+      "TrackerHTTPS": "2",
       "IRCServer": "1",
       "IRCTorrentAnnouncer": "1",
       "IRCUserIdentifier": "1"
@@ -144,7 +144,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717253503",
+      "unix": "1717256092",
       "message": "Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
@@ -167,7 +167,7 @@
     "Description": "all five services online",
     "tweet": {
       "date": "1st of June 2024",
-      "unix": "1717253503",
+      "unix": "1717256092",
       "message": "#NBL Welcome Nebulance to the trackerstatus site!"
     },
     "Services": {
